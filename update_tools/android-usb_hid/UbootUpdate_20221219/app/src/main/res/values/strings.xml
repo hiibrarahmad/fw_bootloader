@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Uboot Update</string>
+    <string name="select_file">Select file</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="no_permission">Permission denied!</string>
+    <string name="device">Device</string>
+    <string name="offline">offline</string>
+    <string name="online">online</string>
+    <string name="no_file_data">No file data</string>
+    <string name="check">Check</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="success">Success!</string>
+    <string name="fail">Fail!</string>
+    <string name="filename">Filename</string>
+</resources>
